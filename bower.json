@@ -1,0 +1,22 @@
+{
+  "name": "dakkosite",
+  "version": "0.0.0",
+  "authors": [
+    "cocuh"
+  ],
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "license": "all right reserved",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3"
+  }
+}
