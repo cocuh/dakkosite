@@ -1,5 +1,21 @@
+<?xml-stylesheet href="/css/top.css" type="text/css"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>dakko.site!</title>
-    <g id="content"/>
-    <script xlink:href="/js/main.js"/>
+    <style type="text/css">
+        <![CDATA[
+        ]]>
+    </style>
+    <g id="icon">
+        <svg id="-icon" transform="translate(-256,-256)" viewBox="0 0 512 512" width="30%" height="30%">
+            <defs>
+                <clipPath id="icon-clipper">
+                    <circle r="256" cx="256" cy="256"/>
+                </clipPath>
+            </defs>
+            <g clip-path="url(#icon-clipper)">
+                <rect fill="red" width="512" height="512"/>
+                <image xlink:href="/img/stern.png" x="0" y="0" width="512" height="512"/>
+            </g>
+        </svg>
+    </g>
 </svg>
